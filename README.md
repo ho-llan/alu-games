@@ -1,5 +1,5 @@
 # Alu Games
-Projeto da primeira aulda de JavaScript
+### Primeiro projeto do curso de JavaScript
 
 A finalidade do projeto é simular umaa locadora de jogos.
 
